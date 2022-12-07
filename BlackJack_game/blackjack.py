@@ -2,7 +2,7 @@
 # master
 # BLACK JACK - CASINO A GAME OF FORTUNE!!!
 from time import *
-
+# Black jack 
 # BLACK JACK - CASINO
 # PYTHON CODE BASE
 
